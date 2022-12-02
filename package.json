@@ -1,0 +1,21 @@
+{
+  "name": "format-content",
+  "version": "0.0.1",
+  "description": "I format everything!!!",
+  "main": "index.js",
+  "bin": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanglocdn95/format-content.git"
+  },
+  "keywords": ["javascript", "format", "text", "number", "everything"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoanglocdn95/format-content/issues"
+  },
+  "homepage": "https://github.com/hoanglocdn95/format-content#readme"
+}
